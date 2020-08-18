@@ -14,11 +14,13 @@ And from here predict the corresponding equation:
 
 For this project I will be working with a dataset in spanish Language, and thus I can contribuite to Hispanic Community. You want to know more about dataset you can visit my medium about this. [Dataset Article](https://medium.com/math-word-problems-dataset/math-words-problems-2018ef726d33)
  
- 
- Graph2Tree Neural Network archives a good perfomance for this task, how ever our goal is research from scratch this particular task.
+## Related Work 
+ Graph2Tree Neural Network archives a good perfomance for this task, however our goal is research from scratch this particular task.
  
  
  #### [Grap2Tree Neural Networks](https://arxiv.org/abs/2004.13781)
+ 
+ ## And so..
  
  *I'm currently working on this project more updates comming soon*
  
