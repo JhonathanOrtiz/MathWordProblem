@@ -20,7 +20,7 @@ For this project I will be working with a dataset in spanish Language, and thus 
  
  #### [Grap2Tree Neural Networks](https://arxiv.org/abs/2004.13781)
  
- ## And so..
+ ## And so
  
  *I'm currently working on this project more updates comming soon*
  
