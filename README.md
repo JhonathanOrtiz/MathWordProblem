@@ -2,11 +2,11 @@
 
 When we talking about Natural Language Processing Maybe the first thing that comes to mind is GPT-3 or BERT and those very big laguange mdoels. However Thaere are a set of problems that even these pretty huge language models cannot solve, So far. These problems are Math Word problems:
 
-### *Mrs Smith went 3 times to store last month. Each time she bouhgt 3 apples. How many apples did Mrs. Smith buy*
+### *Mrs Smith went 3 times to store last month. Each time she bouhgt 3 apples. How many apples did Mrs. Smith buy?*
 
 And from here predict the corresponding equation:
 
- ### *Solution = 3 x 3 *
+ ### Solution = 3 * 3 
  
  The Goal of this project is build an Artificial Intelligence based on Natural Language processing capable to solve problems like this.
  
@@ -19,4 +19,6 @@ For this project I will be working with a dataset in spanish Language, and thus 
  
  
  #### [Grap2Tree Neural Networks](https://arxiv.org/abs/2004.13781)
+ 
+ *I'm currently working on this project more updates comming soon*
  
